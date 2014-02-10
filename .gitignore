@@ -1,0 +1,12 @@
+._*
+.*.swp
+.rvmrc
+.ruby-version
+.ruby-gemset
+.bundle
+.DS_Store
+.sass-cache
+views/*.css
+*~
+.ruby-gemset  
+.ruby-version
